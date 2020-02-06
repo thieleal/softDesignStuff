@@ -1,7 +1,12 @@
 /**
  * SYST 17796 Project Winter 2020 Base code.
  * Students can modify and extend to implement their game.
- * Add your name as a modifier and the date!
+ * Modified by Team Card Game Team
+ * Alex Thiele
+ * Andre Arseneau
+ * Xudong Su
+ * Nguyen Quoc Thong
+ * Feb 6 2020
  */
 package ca.sheridancollege.project;
 
